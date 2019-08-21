@@ -1,0 +1,94 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+.navbar{
+   background-color: #02075d;
+}
+#na a img{
+   width: 95%;
+   height: 95%;
+}
+.nav{
+   padding-top: 30px;
+   font-size: 15px;
+   text-transform: uppercase;
+}
+.nav li a{
+   color: white;
+}
+.nav li a:hover{
+   color: #9cc3d5ff;
+}
+.dr a:hover,a:visited,a:focus,a:active{
+   text-decoration: none;
+}
+.navbar-form{
+   padding-top: 30px;
+}
+#inp{
+   width: 200px;
+}
+#dropback{
+   background-color: white;
+   border:none;
+}
+#dropback li a{
+   color: #02075d;
+}
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
