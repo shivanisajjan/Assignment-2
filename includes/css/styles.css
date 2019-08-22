@@ -25,9 +25,7 @@ body{
    font-family: Lato,sans-serif;
    -webkit-font-smoothing: antialiased;
    text-rendering: optimizeLegibility;
-
 }
-
 .navbar{
    background-color: #02075d;
 }
@@ -80,6 +78,9 @@ body{
 #jam a:hover{
    color: #003b00;
 }
+#jam article{
+   line-height: 24px;
+}
 .b1{
    background-color: white;
    float: right;
@@ -113,10 +114,8 @@ body{
    background-color: #02075d;
    border:none;
 }
-#features{
+#features,#features1,#features2,#features3,#features4{
    text-align: center;
-}
-#features{
    margin:0px 0px 20px;
 }
 .x1{
